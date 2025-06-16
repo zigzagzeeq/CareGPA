@@ -413,9 +413,9 @@ const knowledgeBase = [
     response: "You must score a perfect GPA of 4.0 this semester to get close to 3.8 CGPA — but technically, it's not achievable this semester because the highest you can achieve is 3.70."
   },
   {
-    keywords: ["subject: ", "current cgpa", "3.55"],
+    keywords: ["subject: ", "target", "current cgpa", "3.55"],
     response:
-        "To reach a 3.75 CGPA, the user must average 3.94 GPA this semester — meaning nearly all A (4.00), with perhaps one A- (3.7) at most:\n\n" +
+        "To reach a 3.75 CGPA, the you must average 3.94 GPA this semester — meaning nearly all A (4.00), with perhaps one A- (3.7) at most:\n\n" +
         "English for Communication (2 credits) – A\n" +
         "Ethics and Civilitation(2 credits) – A\n" +
         "Data Structure (5 credits) – A\n" +
